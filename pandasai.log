@@ -1,0 +1,52 @@
+2023-12-28 20:45:36 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:45:37 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:45:39 [INFO] st.session_state.llm_ready=False
+2023-12-28 20:45:40 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:45:40 [INFO] st.session_state.llm_ready=False
+2023-12-28 20:47:27 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:47:27 [INFO] st.session_state.llm_ready=False
+2023-12-28 20:47:38 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:47:38 [INFO] st.session_state.llm_ready=False
+2023-12-28 20:48:22 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:48:22 [INFO] st.session_state.llm_ready=True
+2023-12-28 20:48:22 [INFO] Question: what is the product price of productId = 1
+2023-12-28 20:48:22 [INFO] Running PandasAI with openai LLM...
+2023-12-28 20:48:22 [INFO] Prompt ID: fda539b7-984b-4129-a572-0b2751b38c92
+2023-12-28 20:48:34 [INFO] Answer: {'type': 'number', 'value': 29}
+2023-12-28 20:48:34 [INFO] Executed in: 12.48714303970337s
+2023-12-28 20:48:47 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:48:47 [INFO] st.session_state.llm_ready=False
+2023-12-28 20:48:49 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2023-12-28 20:48:49 [INFO] st.session_state.llm_ready=False
